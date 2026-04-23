@@ -1,0 +1,865 @@
+
+TRYLESOIR2.COM
+==============
+
+> whois trylesoir2.com
+
+CreationDate               : 2026-04-07T21:26:40Z
+DaysUntilExpiration        : 352
+DomainName                 : TRYLESOIR2.COM
+DomainStatus               : clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Lastupdateofwhoisdatabase  : 2026-04-20T08:27:51Z <<<
+NameServer                 : {CRUZ.NS.CLOUDFLARE.COM, DION.NS.CLOUDFLARE.COM}
+Registrar                  : Dynadot Inc
+RegistrarAbuseContactEmail : abuse@dynadot.com
+RegistrarAbuseContactPhone : +16502620100
+RegistrarIANAID            : 472
+RegistrarURL               : http://www.dynadot.com
+RegistrarWHOISServer       : whois.dynadot.com
+RegistryDomainID           : 3085553545_DOMAIN_COM-VRSN
+RegistryExpiryDate         : 2027-04-07T21:26:40Z
+UpdatedDate                : 2026-04-07T21:27:13Z
+WhoisServerName            : whois.verisign-grs.com
+NameServers                : {CRUZ.NS.CLOUDFLARE.COM, DION.NS.CLOUDFLARE.COM}
+WhoisLookupService         : whois-servers.net
+
+> nslookup trylesoir2.com
+
+Non-authoritative answer:
+Name:    trylesoir2.com
+Addresses:  2606:4700:3033::ac43:d21a
+          2606:4700:3031::6815:22f3
+          104.21.34.243
+          172.67.210.26
+
+FROSTEDPRIME.COM
+================
+
+> whois frostedprime.com
+
+CreationDate               : 2024-08-28T11:01:05Z
+DaysUntilExpiration        : 130
+DomainName                 : FROSTEDPRIME.COM
+DomainStatus               : {clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited,
+                             clientRenewProhibited https://icann.org/epp#clientRenewProhibited,
+                             clientTransferProhibited https://icann.org/epp#clientTransferProhibited,
+                             clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited}
+Lastupdateofwhoisdatabase  : 2026-04-20T09:29:25Z <<<
+NameServer                 : {CASS.NS.CLOUDFLARE.COM, CLINT.NS.CLOUDFLARE.COM}
+Registrar                  : GoDaddy.com, LLC
+RegistrarAbuseContactEmail : abuse@godaddy.com
+RegistrarAbuseContactPhone : 480-624-2505
+RegistrarIANAID            : 146
+RegistrarURL               : http://www.godaddy.com
+RegistrarWHOISServer       : whois.godaddy.com
+RegistryDomainID           : 2911811318_DOMAIN_COM-VRSN
+RegistryExpiryDate         : 2026-08-28T11:01:05Z
+UpdatedDate                : 2025-08-29T12:20:49Z
+WhoisServerName            : whois.verisign-grs.com
+NameServers                : {CASS.NS.CLOUDFLARE.COM, CLINT.NS.CLOUDFLARE.COM}
+WhoisLookupService         : whois-servers.net
+
+> nslookup frostedprime.com
+
+Non-authoritative answer:
+Name:    frostedprime.com
+Address:  46.28.41.137
+
+BITELITY.TECH
+=============
+
+> whois bitelity.tech
+
+CreationDate               : 2025-12-03T15:24:23.000Z
+DaysUntilExpiration        : 227
+DomainName                 : bitelity.tech
+DomainStatus               : clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+LastupdateofWHOISdatabase  : 2026-04-20T12:30:22.017Z <<<
+NameServer                 : {apollo.ns.cloudflare.com, reza.ns.cloudflare.com}
+Registrar                  : NameSilo, LLC
+RegistrarAbuseContactEmail : kristaps@namesilo.com
+RegistrarAbuseContactPhone : +1.4169958133
+RegistrarIANAID            : 1479
+RegistrarURL               : https://www.namesilo.com
+RegistrarWHOISServer       : whois.namesilo.com
+RegistryDomainID           : D622658784-CNIC
+RegistryExpiryDate         : 2026-12-03T23:59:59.000Z
+UpdatedDate                : 2026-01-05T12:48:16.000Z
+WhoisServerName            : aws.radix.host
+NameServers                : {apollo.ns.cloudflare.com, reza.ns.cloudflare.com}
+WhoisLookupService         : whois-servers.net
+
+> nslookup bitelity.tech
+
+Non-authoritative answer:
+Name:    bitelity.tech
+Addresses:  2606:4700:3037::6815:601c
+          2606:4700:3034::ac43:96a0
+          104.21.96.28
+          172.67.150.160
+
+BITELITY.ASSOCIATES
+===================
+
+> who.is RDAP data
+
+{
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Access to RDAP information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or, if the record pertains to a TLD not operated by Identity Digital, then the corresponding primary Registry Operator for informational purposes only, and neither Identity Digital nor the Registry Operator guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Identity Digital, a Registrar, or Registry Operator except as reasonably necessary to register domain names or modify existing registrations. When using the RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to the data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/ Identity Digital Inc. and, if applicable, the primary Registry Operators reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+          "rel": "terms-of-service",
+          "href": "https://www.identity.digital/policies/rdds-access-policy",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "ldhName": "bitelity.associates",
+  "unicodeName": "bitelity.associates",
+  "nameservers": [
+    {
+      "ldhName": "apollo.ns.cloudflare.com",
+      "unicodeName": "apollo.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "handle": "886623d5158c4fb2ae29ef52ec2b7786-DONUTS",
+      "status": [
+        "associated"
+      ]
+    },
+    {
+      "ldhName": "reza.ns.cloudflare.com",
+      "unicodeName": "reza.ns.cloudflare.com",
+      "objectClassName": "nameserver",
+      "handle": "5740f10601fb47ddae3b46b0cc2b849f-DONUTS",
+      "status": [
+        "associated"
+      ]
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false,
+    "maxSigLife": 1
+  },
+  "redacted": [
+    {
+      "name": {
+        "type": "Registry Domain ID"
+      },
+      "prePath": "$.handle",
+      "pathLang": "jsonpath",
+      "method": "removal"
+    }
+  ],
+  "objectClassName": "domain",
+  "status": [
+    "client transfer prohibited"
+  ],
+  "events": [
+    {
+      "eventAction": "expiration",
+      "eventDate": "2027-02-25T09:33:56.568Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2026-02-25T09:33:56.568Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2026-03-02T09:34:34.007Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2026-04-21T09:09:57.432Z"
+    }
+  ],
+  "entities": [
+    {
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NameSilo, LLC"
+          ]
+        ]
+      ],
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1479"
+        }
+      ],
+      "objectClassName": "entity",
+      "handle": "1479",
+      "entities": [
+        {
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.6024928198"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@namesilo.com"
+              ]
+            ]
+          ],
+          "roles": [
+            "abuse"
+          ],
+          "objectClassName": "entity"
+        }
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/entity/1479",
+          "rel": "self",
+          "href": "https://rdap.identitydigital.services/rdap/entity/1479",
+          "type": "application/rdap+json"
+        },
+        {
+          "value": "https://rdap.namesilo.com",
+          "rel": "about",
+          "href": "https://rdap.namesilo.com",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+      "rel": "related",
+      "href": "https://rdap.namesilo.com/domain/bitelity.associates",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+      "rel": "self",
+      "href": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+      "type": "application/rdap+json"
+    }
+  ]
+}
+
+> nslookup bitelity.associates
+
+Non-authoritative answer:
+Name:    bitelity.associates
+Addresses:  2606:4700:3033::ac43:d325
+          2606:4700:3036::6815:5324
+          172.67.211.37
+          104.21.83.36
+
+> nslookup -type=MX bitelity.associates
+
+Non-authoritative answer:
+bitelity.associates     MX preference = 10, mail exchanger = alt4.aspmx.l.google.com
+bitelity.associates     MX preference = 5, mail exchanger = alt1.aspmx.l.google.com
+bitelity.associates     MX preference = 5, mail exchanger = alt2.aspmx.l.google.com
+bitelity.associates     MX preference = 1, mail exchanger = aspmx.l.google.com
+bitelity.associates     MX preference = 10, mail exchanger = alt3.aspmx.l.google.com
+
+aspmx.l.google.com      internet address = 142.251.127.27
+
+BITELITY.COM
+============
+
+> whois bitelity.com
+
+CreationDate               : 2025-12-03T14:26:38Z
+DaysUntilExpiration        : 227
+DomainName                 : BITELITY.COM
+DomainStatus               : clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Lastupdateofwhoisdatabase  : 2026-04-20T12:43:52Z <<<
+NameServer                 : {APOLLO.NS.CLOUDFLARE.COM, REZA.NS.CLOUDFLARE.COM}
+Registrar                  : NameSilo, LLC
+RegistrarAbuseContactEmail : abuse@namesilo.com
+RegistrarAbuseContactPhone : +1.4805240066
+RegistrarIANAID            : 1479
+RegistrarURL               : http://www.namesilo.com
+RegistrarWHOISServer       : whois.namesilo.com
+RegistryDomainID           : 3044449540_DOMAIN_COM-VRSN
+RegistryExpiryDate         : 2026-12-03T14:26:38Z
+UpdatedDate                : 2026-02-24T09:29:28Z
+WhoisServerName            : whois.verisign-grs.com
+NameServers                : {APOLLO.NS.CLOUDFLARE.COM, REZA.NS.CLOUDFLARE.COM}
+WhoisLookupService         : whois-servers.net
+
+> nslookup bitelity.com
+
+Non-authoritative answer:
+Name:    bitelity.com
+Address:  89.127.232.91
+
+BITELITY.SUPPORT
+================
+
+> who.is RDAP data
+
+{
+  "links": [
+    {
+      "rel": "related",
+      "href": "https://rdap.namesilo.com/domain/bitelity.associates",
+      "type": "application/rdap+json",
+      "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates"
+    },
+    {
+      "rel": "self",
+      "href": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+      "type": "application/rdap+json",
+      "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates"
+    }
+  ],
+  "events": [
+    {
+      "eventDate": "2027-02-25T09:33:56.568Z",
+      "eventAction": "expiration"
+    },
+    {
+      "eventDate": "2026-02-25T09:33:56.568Z",
+      "eventAction": "registration"
+    },
+    {
+      "eventDate": "2026-03-02T09:34:34.007Z",
+      "eventAction": "last changed"
+    },
+    {
+      "eventDate": "2026-04-21T08:57:45.477Z",
+      "eventAction": "last update of RDAP database"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "ldhName": "bitelity.associates",
+  "notices": [
+    {
+      "links": [
+        {
+          "rel": "terms-of-service",
+          "href": "https://www.identity.digital/policies/rdds-access-policy",
+          "type": "text/html",
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates"
+        }
+      ],
+      "title": "Terms of Service",
+      "description": [
+        "Access to RDAP information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or, if the record pertains to a TLD not operated by Identity Digital, then the corresponding primary Registry Operator for informational purposes only, and neither Identity Digital nor the Registry Operator guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Identity Digital, a Registrar, or Registry Operator except as reasonably necessary to register domain names or modify existing registrations. When using the RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to the data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/ Identity Digital Inc. and, if applicable, the primary Registry Operators reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ]
+    },
+    {
+      "links": [
+        {
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json",
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates"
+        }
+      ],
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ]
+    },
+    {
+      "links": [
+        {
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json",
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates"
+        }
+      ],
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "roles": [
+        "registrar"
+      ],
+      "handle": "1479",
+      "entities": [
+        {
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.6024928198"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@namesilo.com"
+              ]
+            ]
+          ],
+          "objectClassName": "entity"
+        }
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1479"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NameSilo, LLC"
+          ]
+        ]
+      ],
+      "objectClassName": "entity"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "ldhName": "apollo.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    },
+    {
+      "ldhName": "reza.ns.cloudflare.com",
+      "objectClassName": "nameserver"
+    }
+  ],
+  "queried_url": "https://rdap.identitydigital.services/rdap/domain/bitelity.associates",
+  "objectClassName": "domain",
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ]
+}
+
+> nslookup bitelity.support
+
+Non-authoritative answer:
+Name:    bitelity.support
+Addresses:  2606:4700:3034::ac43:97bd
+          2606:4700:3035::6815:58b1
+          172.67.151.189
+          104.21.88.177
+
+> nslookup -type=MX bitelity.support
+
+Non-authoritative answer:
+bitelity.support        MX preference = 5, mail exchanger = alt1.aspmx.l.google.com
+bitelity.support        MX preference = 5, mail exchanger = alt2.aspmx.l.google.com
+bitelity.support        MX preference = 1, mail exchanger = aspmx.l.google.com
+bitelity.support        MX preference = 10, mail exchanger = alt3.aspmx.l.google.com
+bitelity.support        MX preference = 10, mail exchanger = alt4.aspmx.l.google.com
+
+aspmx.l.google.com      internet address = 142.251.127.26
+aspmx.l.google.com      AAAA IPv6 address = 2a00:1450:4001:c21::1a
+alt2.aspmx.l.google.com internet address = 192.178.211.26
+
+BITELITY.NET
+============
+
+> whois bitelity.net
+
+CreationDate               : 2025-12-03T15:24:23Z
+DaysUntilExpiration        : 227
+DomainName                 : BITELITY.NET
+DomainStatus               : clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Lastupdateofwhoisdatabase  : 2026-04-20T12:46:37Z <<<
+NameServer                 : {APOLLO.NS.CLOUDFLARE.COM, REZA.NS.CLOUDFLARE.COM}
+Registrar                  : NameSilo, LLC
+RegistrarAbuseContactEmail : abuse@namesilo.com
+RegistrarAbuseContactPhone : +1.4805240066
+RegistrarIANAID            : 1479
+RegistrarURL               : http://www.namesilo.com
+RegistrarWHOISServer       : whois.namesilo.com
+RegistryDomainID           : 3044458680_DOMAIN_NET-VRSN
+RegistryExpiryDate         : 2026-12-03T15:24:23Z
+UpdatedDate                : 2026-02-24T09:52:48Z
+WhoisServerName            : whois.verisign-grs.com
+NameServers                : {APOLLO.NS.CLOUDFLARE.COM, REZA.NS.CLOUDFLARE.COM}
+WhoisLookupService         : whois-servers.net
+
+> nslookup bitelity.net
+
+Non-authoritative answer:
+Name:    bitelity.net
+Address:  89.127.232.91
+
+BITELITY.ORG
+============
+
+> whois bitelity.org
+
+CreationDate               : 2025-12-03T14:47:27Z
+DaysUntilExpiration        : 227
+DomainName                 : bitelity.org
+DomainStatus               : clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+LastupdateofWHOISdatabase  : 2026-04-20T12:47:45Z <<<
+NameServer                 : {apollo.ns.cloudflare.com, reza.ns.cloudflare.com}
+Registrar                  : NameSilo, LLC
+RegistrarAbuseContactEmail : abuse@namesilo.com
+RegistrarAbuseContactPhone : +1.4805240066
+RegistrarIANAID            : 1479
+RegistrarURL               : http://www.namesilo.com
+RegistrarWHOISServer       : http://whois.namesilo.com
+RegistryDomainID           : REDACTED
+RegistryExpiryDate         : 2026-12-03T14:47:27Z
+UpdatedDate                : 2026-02-24T09:31:56Z
+WhoisServerName            : whois.pir.gtm.iddg.io
+NameServers                : {apollo.ns.cloudflare.com, reza.ns.cloudflare.com}
+WhoisLookupService         : whois-servers.net
+
+> nslookup bitelity.org
+
+Non-authoritative answer:
+Name:    bitelity.org
+Addresses:  2606:4700:3032::6815:291f
+          2606:4700:3034::ac43:9f7f
+          172.67.159.127
+          104.21.41.31
+
+BITELITY.CC
+===========
+
+> whois bitelity.cc
+
+CreationDate               : 2025-12-03T15:42:40Z
+DaysUntilExpiration        : 227
+DomainName                 : BITELITY.CC
+DomainStatus               : clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+LastupdateofWHOISdatabase  : 2026-04-20T12:48:18Z <<<
+NameServer                 : {APOLLO.NS.CLOUDFLARE.COM, REZA.NS.CLOUDFLARE.COM}
+Registrar                  : NameSilo, LLC
+RegistrarAbuseContactEmail : abuse@namesilo.com
+RegistrarAbuseContactPhone : +1.4805240066
+RegistrarIANAID            : 1479
+RegistrarURL               : http://www.namesilo.com
+RegistrarWHOISServer       : whois.namesilo.com
+RegistryDomainID           : 207243559_DOMAIN_CC-VRSN
+RegistryExpiryDate         : 2026-12-03T15:42:40Z
+UpdatedDate                : 2026-02-25T10:26:06Z
+WhoisServerName            : ccwhois.verisign-grs.com
+NameServers                : {APOLLO.NS.CLOUDFLARE.COM, REZA.NS.CLOUDFLARE.COM}
+WhoisLookupService         : whois-servers.net
+
+> nslookup bitelity.cc
+
+Non-authoritative answer:
+Name:    bitelity.cc
+Addresses:  2606:4700:3037::ac43:deb6
+          2606:4700:3035::6815:1933
+          104.21.25.51
+          172.67.222.182
+
+BITELITY.INFO
+=============
+
+> who.is RDAP data
+
+{
+  "objectClassName": "domain",
+  "ldhName": "bitelity.info",
+  "links": [
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.info",
+      "rel": "related",
+      "href": "https://rdap.namesilo.com/domain/bitelity.info",
+      "type": "application/rdap+json"
+    },
+    {
+      "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.info",
+      "rel": "self",
+      "href": "https://rdap.identitydigital.services/rdap/domain/bitelity.info",
+      "type": "application/rdap+json"
+    }
+  ],
+  "status": [
+    "client transfer prohibited"
+  ],
+  "entities": [
+    {
+      "objectClassName": "entity",
+      "handle": "1479",
+      "roles": [
+        "registrar"
+      ],
+      "publicIds": [
+        {
+          "type": "IANA Registrar ID",
+          "identifier": "1479"
+        }
+      ],
+      "vcardArray": [
+        "vcard",
+        [
+          [
+            "version",
+            {},
+            "text",
+            "4.0"
+          ],
+          [
+            "fn",
+            {},
+            "text",
+            "NameSilo, LLC"
+          ]
+        ]
+      ],
+      "entities": [
+        {
+          "objectClassName": "entity",
+          "roles": [
+            "abuse"
+          ],
+          "vcardArray": [
+            "vcard",
+            [
+              [
+                "version",
+                {},
+                "text",
+                "4.0"
+              ],
+              [
+                "fn",
+                {},
+                "text",
+                ""
+              ],
+              [
+                "tel",
+                {
+                  "type": "voice"
+                },
+                "uri",
+                "tel:+1.6024928198"
+              ],
+              [
+                "email",
+                {},
+                "text",
+                "abuse@namesilo.com"
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "eventAction": "expiration",
+      "eventDate": "2026-12-03T15:42:40.395Z"
+    },
+    {
+      "eventAction": "registration",
+      "eventDate": "2025-12-03T15:42:40.395Z"
+    },
+    {
+      "eventAction": "last changed",
+      "eventDate": "2026-02-25T10:29:03.749Z"
+    },
+    {
+      "eventAction": "last update of RDAP database",
+      "eventDate": "2026-04-21T09:48:19.399Z"
+    }
+  ],
+  "secureDNS": {
+    "delegationSigned": false
+  },
+  "nameservers": [
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "apollo.ns.cloudflare.com"
+    },
+    {
+      "objectClassName": "nameserver",
+      "ldhName": "reza.ns.cloudflare.com"
+    }
+  ],
+  "rdapConformance": [
+    "rdap_level_0",
+    "icann_rdap_response_profile_1",
+    "icann_rdap_technical_implementation_guide_1",
+    "redacted"
+  ],
+  "notices": [
+    {
+      "title": "Terms of Service",
+      "description": [
+        "Access to RDAP information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or, if the record pertains to a TLD not operated by Identity Digital, then the corresponding primary Registry Operator for informational purposes only, and neither Identity Digital nor the Registry Operator guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Identity Digital, a Registrar, or Registry Operator except as reasonably necessary to register domain names or modify existing registrations. When using the RDAP service, please consider the following: the RDAP service is not a replacement for standard EPP commands to the SRS service. RDAP is not considered authoritative for registered domain objects. The RDAP service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the RDAP services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of RDAP service access. Abuse of the RDAP system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the RDAP records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to the data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/ Identity Digital Inc. and, if applicable, the primary Registry Operators reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.info",
+          "rel": "terms-of-service",
+          "href": "https://www.identity.digital/policies/rdds-access-policy",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "title": "Status Codes",
+      "description": [
+        "For more information on domain status codes, please visit https://icann.org/epp"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.info",
+          "rel": "glossary",
+          "href": "https://icann.org/epp",
+          "type": "application/rdap+json"
+        }
+      ]
+    },
+    {
+      "title": "RDDS Inaccuracy Complaint Form",
+      "description": [
+        "URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf"
+      ],
+      "links": [
+        {
+          "value": "https://rdap.identitydigital.services/rdap/domain/bitelity.info",
+          "rel": "help",
+          "href": "https://icann.org/wicf",
+          "type": "application/rdap+json"
+        }
+      ]
+    }
+  ],
+  "queried_url": "https://rdap.identitydigital.services/rdap/domain/bitelity.info"
+}
+
+> nslookup bitelity.info
+
+Non-authoritative answer:
+Name:    bitelity.info
+Addresses:  2606:4700:3030::6815:23e7
+          2606:4700:3032::ac43:b4a9
+          104.21.35.231
+          172.67.180.169
+
+> nslookup -type=MX bitelity.info
+
+Non-authoritative answer:
+bitelity.info   MX preference = 5, mail exchanger = alt1.aspmx.l.google.com
+bitelity.info   MX preference = 5, mail exchanger = alt2.aspmx.l.google.com
+bitelity.info   MX preference = 1, mail exchanger = aspmx.l.google.com
+bitelity.info   MX preference = 10, mail exchanger = alt3.aspmx.l.google.com
+bitelity.info   MX preference = 10, mail exchanger = alt4.aspmx.l.google.com
+
+aspmx.l.google.com      AAAA IPv6 address = 2a00:1450:4001:c21::1b
+alt1.aspmx.l.google.com AAAA IPv6 address = 2a00:1450:4010:c22::1a
+
+
