@@ -16,3 +16,6 @@ Je l'ai fait pour le fun... et parce que c'est un très bon exercice 😉
 
 ⛔️ Aucun retour de Facebook
 
+### En date du 4 mai 2025
+
+✅ Retour du registraire NameSilo
